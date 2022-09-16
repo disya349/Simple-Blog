@@ -1,6 +1,6 @@
 @media screen and (max-width: 1000px) {
     .left-content,
-    .right-content {
+    aside {
         background-color: aqua;
         width: 100%;
         padding: 0;
@@ -90,17 +90,17 @@ main {
     width: 70%;
 }
 
-.right-content {
+aside {
     float: right;
     width: 25%;
     text-align: center;
 }
 
-.right-content img {
+aside img {
     width: 150px;
 }
 
-.right-content p {
+aside p {
     text-align: justify;
 }
 
